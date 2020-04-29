@@ -13,4 +13,4 @@ This application is used for updating the mount paths in the Plex database when 
 
 ## Source code
 
-[https://github.com/Nick0703/PCS_WindowsMeta](https://github.com/Nick0703/PCS_WindowsMeta)
+[https://github.com/Nick0703/PCS_WindowsMetaConsole](https://github.com/Nick0703/PCS_WindowsMetaConsole)
